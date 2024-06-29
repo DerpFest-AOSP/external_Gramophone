@@ -8,8 +8,8 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>androidx.databinding</groupId>
-  <artifactId>databinding-runtime</artifactId>
-  <version>7.4.0-alpha09</version>
+  <artifactId>viewbinding</artifactId>
+  <version>8.6.0-alpha08</version>
   <packaging>aar</packaging>
   <licenses>
     <license>
@@ -20,28 +20,10 @@
   </licenses>
   <dependencies>
     <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>databinding-common</artifactId>
-      <version>7.4.0-alpha09</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>viewbinding</artifactId>
-      <version>7.4.0-alpha09</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.lifecycle</groupId>
-      <artifactId>lifecycle-runtime</artifactId>
-      <version>2.4.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.collection</groupId>
-      <artifactId>collection</artifactId>
+      <groupId>androidx.annotation</groupId>
+      <artifactId>annotation</artifactId>
       <version>1.0.0</version>
-      <scope>runtime</scope>
+      <scope>compile</scope>
     </dependency>
   </dependencies>
 </project>

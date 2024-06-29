@@ -8,11 +8,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>androidx.preference</groupId>
   <artifactId>preference-ktx</artifactId>
-  <version>1.2.0</version>
+  <version>1.2.1</version>
   <packaging>aar</packaging>
   <name>Android Preferences KTX</name>
   <description>Kotlin extensions for preferences</description>
-  <url>https://developer.android.com/jetpack/androidx/releases/preference#1.2.0</url>
+  <url>https://developer.android.com/jetpack/androidx/releases/preference#1.2.1</url>
   <inceptionYear>2018</inceptionYear>
   <licenses>
     <license>
@@ -34,7 +34,7 @@
     <dependency>
       <groupId>androidx.preference</groupId>
       <artifactId>preference</artifactId>
-      <version>[1.2.0]</version>
+      <version>[1.2.1]</version>
       <scope>compile</scope>
       <type>aar</type>
     </dependency>
